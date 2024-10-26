@@ -18,6 +18,8 @@ D_EXTEND('zhp.pl',
     Delegation_A('gniezno', '178.32.205.96'),
     Delegation_A('poznangrunwald', '94.23.27.27'),
     Ms365_Subdomain('poznangrunwald','zhp.pl'),
+    Ms365_Subdomain('powiatkaliski','zhp.pl'),  //MS365-48795
+         
     Ms365_Subdomain('jarocin','zhp.pl'),  // MS365-26038
     Ms365_Subdomain('srem','zhp.pl'),  // MS365-27185
          
